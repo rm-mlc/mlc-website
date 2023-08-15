@@ -11,7 +11,7 @@ export default function Header() {
           {/* Site branding */}
           <div className="shrink-0 mr-4">
             {/* Logo */}
-            <Link href="/" className="block" aria-label="Cruip">
+            <Link href="/" className="block" aria-label="MLC">
               <Image className="max-w-full mx-auto md:max-w-none h-auto" src={logo} width={50} height={50} alt="Features 01" />
             </Link>
           </div>
@@ -22,15 +22,16 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
+                
                   href="/signin"
-                  className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  className="font-medium text-green-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
-                  Sign in
+                  Materials
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
-                  Sign up
+                <Link href="/signup" className="btn-sm text-white bg-green-600 hover:bg-green-700 ml-3">
+                  Competitions
                 </Link>
               </li>
             </ul>
