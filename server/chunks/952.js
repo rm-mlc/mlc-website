@@ -315,7 +315,7 @@ function Header() {
                                     children: /*#__PURE__*/ jsx_runtime_.jsx((link_default()), {
                                         href: "/resources",
                                         className: "font-medium text-green-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out",
-                                        children: "Materials"
+                                        children: "Resources"
                                     })
                                 }),
                                 /*#__PURE__*/ jsx_runtime_.jsx("li", {

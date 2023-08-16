@@ -2,8 +2,8 @@
   "/(default)/page": "/",
   "/api/hello/route": "/api/hello",
   "/(auth)/reset-password/page": "/reset-password",
-  "/(subpages)/competition/page": "/competition",
+  "/(auth)/signup/page": "/signup",
   "/(auth)/signin/page": "/signin",
-  "/(subpages)/resources/page": "/resources",
-  "/(auth)/signup/page": "/signup"
+  "/(subpages)/competition/page": "/competition",
+  "/(subpages)/resources/page": "/resources"
 }

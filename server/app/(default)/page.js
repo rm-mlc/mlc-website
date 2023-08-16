@@ -522,7 +522,7 @@ function Hero() {
                                         children: /*#__PURE__*/ jsx_runtime_.jsx("a", {
                                             className: "btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4",
                                             href: "/resources",
-                                            children: "See Materials"
+                                            children: "See Resources"
                                         })
                                     })
                                 ]
