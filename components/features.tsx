@@ -39,10 +39,9 @@ export default function Features() {
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="200" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
-                <g transform="translate(21 21)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
-                  <ellipse className="stroke-current text-green-300" cx="11" cy="11" rx="5.5" ry="11" />
-                  <path className="stroke-current text-green-100" d="M11 0v22M0 11h22" />
-                  <circle className="stroke-current text-green-100" cx="11" cy="11" r="11" />
+                <g strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
+                  <path className="stroke-current text-green-100" d="M29 42h10.229a2 2 0 001.912-1.412l2.769-9A2 2 0 0042 29h-7v-4c0-2.373-1.251-3.494-2.764-3.86a1.006 1.006 0 00-1.236.979V26l-5 6" />
+                  <path className="stroke-current text-green-300" d="M22 30h4v12h-4z" />
                 </g>
               </svg>
               <h4 className="h4 mb-2">Hands On</h4>
@@ -69,9 +68,10 @@ export default function Features() {
             <div className="relative flex flex-col items-center" data-aos="fade-up" data-aos-delay="400" data-aos-anchor="[data-aos-id-blocks]">
               <svg className="w-16 h-16 mb-4" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <rect className="fill-current text-green-600" width="64" height="64" rx="32" />
-                <g strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
-                  <path className="stroke-current text-green-100" d="M29 42h10.229a2 2 0 001.912-1.412l2.769-9A2 2 0 0042 29h-7v-4c0-2.373-1.251-3.494-2.764-3.86a1.006 1.006 0 00-1.236.979V26l-5 6" />
-                  <path className="stroke-current text-green-300" d="M22 30h4v12h-4z" />
+                <g transform="translate(21 21)" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd">
+                  <ellipse className="stroke-current text-green-300" cx="11" cy="11" rx="5.5" ry="11" />
+                  <path className="stroke-current text-green-100" d="M11 0v22M0 11h22" />
+                  <circle className="stroke-current text-green-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
               <h4 className="h4 mb-2">Instant Features</h4>
