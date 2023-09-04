@@ -702,7 +702,7 @@ function Features() {
 ;// CONCATENATED MODULE: ./app/(default)/page.tsx
 
 const metadata = {
-    title: "Home - Open PRO",
+    title: "RMHS MLC - Home",
     description: "Page description"
 };
 

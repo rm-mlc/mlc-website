@@ -726,7 +726,7 @@ function Zigzag() {
 ;// CONCATENATED MODULE: ./app/(subpages)/competition/page.tsx
 
 const metadata = {
-    title: "Home - Open PRO",
+    title: "RMHS MLC - Competitions",
     description: "Page description"
 };
 
