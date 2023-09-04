@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Open PRO',
+  title: 'RMHS MLC - Competitions',
   description: 'Page description',
 }
 
